@@ -4,13 +4,11 @@ This project automates the process of downloading PDF files from a newspaper web
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Issues](#issues)
-- [Contributing](#contributing)
-- [License](#license)
-
+- Features
+- Installation
+- Usage
+- Issues
+  
 ## Features
 
 - Automatically navigates to the specified newspaper e-paper website.
@@ -18,29 +16,8 @@ This project automates the process of downloading PDF files from a newspaper web
 - Downloads PDFs to a specified folder.
 - Handles errors like missing elements or timeouts during the download process.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   # Automated E-Paper PDF Downloader
-
-This project automates the process of downloading PDF files from a newspaper website using Selenium WebDriver. It opens the e-paper site, finds the available PDF links, opens them in new tabs, and downloads them to a specified directory.
-
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Issues](#issues)
 
   
-
-## Features
-
-- Automatically navigates to the specified newspaper e-paper website.
-- Finds and opens PDF links in new tabs.
-- Downloads PDFs to a specified folder.
-- Handles errors like missing elements or timeouts during the download process.
 
 ## Installation
 
